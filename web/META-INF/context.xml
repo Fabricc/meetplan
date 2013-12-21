@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/meetplan">
+    <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="meetplan_v2" password="" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/meetplan_v2?zeroDateTimeBehavior=convertToNull" username="root"/>
+</Context>
